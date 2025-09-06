@@ -1,0 +1,6 @@
+Template: NONE
+Clouds: 0.8152174
+Palette: 13
+EffectColorB: 11
+PlacedObjects: DangleFruit><343.4058><297.6184><0~0~2~3, DangleFruit><393.4232><284.6001><0~0~2~3, DangleFruit><313.2018><282.6499><0~0~2~3, 
+FadePalette: 75, 0.4130435

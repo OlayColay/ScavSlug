@@ -1,0 +1,4 @@
+Template: NONE
+Palette: 13
+PlacedObjects: DataPearl><456.3024><142.2811><0~0~0~0~Misc~0, SlimeMold><311.8004><108.2635><0~0~2~3~0<lc>1, 
+FadePalette: 3, 0.2391304, 0.25, 0.2717391

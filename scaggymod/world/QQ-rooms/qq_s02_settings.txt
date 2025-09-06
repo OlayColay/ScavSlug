@@ -1,0 +1,7 @@
+Template: NONE
+DangerType: None
+Palette: 13
+EffectColorB: 11
+Effects: DayNight-1-20-20, 
+PlacedObjects: DayNightSettings><194.5726><281.9077><5~8.660254~3~31, 
+FadePalette: 3, 0.2934783

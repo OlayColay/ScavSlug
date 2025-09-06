@@ -1,0 +1,9 @@
+Template: NONE
+DangerType: None
+Palette: 13
+Effects: AboveCloudsView-1-20-20, 
+PlacedObjects: LightFixture><530.5773><380.0656><HolyFire~17.32051~-10~93, 
+AmbientSounds: OMNI><am_env-natwind.ogg><726.8196><563.9147><0.2525363><1, OMNI><am_env-wallhum.ogg><757.3483><501.3592><0.1829376><1, SPOT><so_nat-burning.ogg><730.2708><275.7195><0.5><1><527.9822><380.2084><-35.35534><-35.35534><0><0.1, SPOT><so_nat-fire.ogg><777.4342><238.1474><0.5><1><528.9009><378.903><-35.35534><-35.35534><0><0.1, 
+FadePalette: 3, 0.2934783
+BackgroundOffset: 0,560
+BackgroundType: atc_default_msc

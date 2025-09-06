@@ -1,0 +1,8 @@
+Template: NONE
+DangerType: None
+Palette: 13
+Effects: AboveCloudsView-1-20-20, DayNight-1-369-45, 
+PlacedObjects: DayNightSettings><1225.913><324.8841><5~8.660254~3~33, 
+FadePalette: 3, 0.25, 0.2391304, 0.2391304, 0.2391304
+BackgroundOffset: 0,869.565
+BackgroundType: atc_default_msc

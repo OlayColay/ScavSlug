@@ -1,0 +1,7 @@
+base : You shouldnt be here...
+You shouldn't be here... : 1 : LEAVE NOW.
+Yeek Unsafe space : 2 : GET OUT.
+Temple Of Jerry (you are banned) : 3 : THY END IS NOW!
+GETOUTGETOUTGETOUTGE- : 4 : HELL IS FULL.
+You wouldn't get it. : 5 : WE WON'T REFER TO YOU.
+Burning Sky Ship : 6 : B U R N .

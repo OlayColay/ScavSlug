@@ -1,0 +1,9 @@
+Template: NONE
+DangerType: Flood
+Grime: 0
+Palette: 31
+EffectColorA: 15
+EffectColorB: 13
+Effects: WaterViscosity-0.8152174-20-20, LethalWater-1-18-101, LavaSurface-1-276-30, HeatWave-0.8043478-314-119, FireFlies-1-611-92, LightBurn-0.1847826-508-216, VoidMelt-0.2173913-607-154, 
+PlacedObjects: VoidSpawnEgg><402.7773><473.9481><0~0~2~3~2, VoidSpawnEgg><633.8021><485.5285><0~0~2~3~2, Shroud><753.8><30.24585><0;0^85;66^-513;652^-625;581, 
+FadePalette: 75, 0.5543478

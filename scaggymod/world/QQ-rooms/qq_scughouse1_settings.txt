@@ -1,0 +1,8 @@
+Template: NONE
+DangerType: None
+Palette: 13
+Effects: AboveCloudsView-1-20-20, 
+AmbientSounds: OMNI><am_env-wallhum.ogg><745.8027><504.1411><0.2757356><1, 
+FadePalette: 3, 0.3152174
+BackgroundOffset: 0,652.1738
+BackgroundType: atc_default_msc

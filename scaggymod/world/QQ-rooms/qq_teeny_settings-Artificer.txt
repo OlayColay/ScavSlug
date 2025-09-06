@@ -1,0 +1,4 @@
+Template: NONE
+Palette: 8
+PlacedObjects: Rainbow><607.0555><390.6477><-331~-9~0~0~1,1,1,1,0.09782609,1, 
+FadePalette: 3, 0

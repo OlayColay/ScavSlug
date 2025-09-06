@@ -1,0 +1,6 @@
+Template: NONE
+Clouds: 0.8369565
+Palette: 13
+EffectColorB: 11
+PlacedObjects: ScavengerOutpost><185.8802><416.7975><594~156~0~0~0.5006017~69~86, 
+FadePalette: 3, 0.07608695

@@ -1,0 +1,2 @@
+Template: NONE
+PlacedObjects: ZapCoil><-643.9708><-350.5593><1064.5~542.1118, 

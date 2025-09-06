@@ -1,0 +1,6 @@
+Template: NONE
+Palette: 13
+EffectColorA: 0
+EffectColorB: 0
+PlacedObjects: CustomDecal><-211.9843><197.1216><-6.711487~289.1333~1381.026~528.3111~1374.141~-238.8667~268.1875~-428.4222~0~1~0~transscavsaystransrights~1~0~1~0~1~0~1~0, 
+FadePalette: 3, 0.3043478

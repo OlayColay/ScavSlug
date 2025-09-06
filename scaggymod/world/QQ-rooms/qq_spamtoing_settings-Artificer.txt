@@ -1,0 +1,4 @@
+Template: NONE
+Palette: 8
+PlacedObjects: TradeOutpost><532.2997><384.3063><-8~182, LanternOnStick><711.4642><582.0532><8~-259, LanternOnStick><374.6152><523.0864><-56~-265, WaterSpout><362.1998><334.9933><100~50~50~290^94, 
+FadePalette: 3, 0

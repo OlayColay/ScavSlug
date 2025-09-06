@@ -1,0 +1,9 @@
+Template: NONE
+DangerType: None
+Palette: 13
+Effects: AboveCloudsView-1-20-20, 
+PlacedObjects: PlayerPushback><465.6664><2087.111><4~-437, 
+AmbientSounds: OMNI><am_env-natwind.ogg><717.4645><565.8809><0.4768007><1, 
+FadePalette: 3, 0.3043478, 0.3152174, 0.3152174
+BackgroundOffset: -2826.087,1304.348
+BackgroundType: atc_default_msc

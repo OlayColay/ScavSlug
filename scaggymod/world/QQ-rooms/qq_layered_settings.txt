@@ -1,0 +1,5 @@
+Template: NONE
+Clouds: 0.8152174
+Palette: 13
+EffectColorA: 11
+FadePalette: 3, 0.1956522

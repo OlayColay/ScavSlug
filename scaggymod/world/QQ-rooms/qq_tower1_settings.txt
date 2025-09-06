@@ -1,0 +1,11 @@
+Template: NONE
+DangerType: None
+RainIntensity: 0.6195652
+RumbleIntensity: 0.6304348
+Palette: 13
+Effects: AboveCloudsView-1-20-20, Fog-0.5869565-29-73, DayNight-1-244-103, 
+PlacedObjects: DayNightSettings><213.9198><1068.067><-66~123.6602~3~31, 
+AmbientSounds: OMNI><AM_ENV-LightWind.ogg><728.713><523.5535><0.2282609><1, 
+FadePalette: 3, 0.1847826, 0.1956522
+BackgroundOffset: 0,730
+BackgroundType: atc_default_msc

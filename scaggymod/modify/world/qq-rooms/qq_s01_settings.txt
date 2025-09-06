@@ -1,0 +1,5 @@
+[FIND]ShelterBhvrSpawnPosition><723.6566><308.3744><, 
+[REPLACE]
+[MERGE]
+PlacedObjects: ShelterBhvrSpawnPosition><732.6566><342.3744><, 
+[ENDMERGE]

@@ -1,0 +1,5 @@
+Template: NONE
+Palette: 13
+PlacedObjects: SlideShowRect><1899.607><-39.35968><100~50~test~1371^771, SlideShowRect><58.34344><220.8764><100~50~test~89^314, SlideShowRect><805.5378><360.5543><100~50~test~369^193, SlideShowRect><93.06311><103.9401><100~50~test~273^160, SlideShowRect><296.012><93.55055><100~50~test~434^413, SlideShowRect><330.449><400.2699><100~50~test~699^-186, SlideShow><1053.218><387.1975><100~50~test~0;0^773;-289^455;177^279;-283, 
+AmbientSounds: OMNI><am_ind-utility01.ogg><746.5529><545.4661><1><1, OMNI><am_ind-utility02.ogg><737.3942><449.8887><1><1, OMNI><am_ind-utility03.ogg><468.9329><481.3309><1><1, OMNI><am_ind-utility04.ogg><752.6492><319.1728><1><1, 
+FadePalette: 3, 0.2319973, 0.2474637, 0.2242641

@@ -1,0 +1,5 @@
+Template: NONE
+Palette: 13
+EffectColorB: 11
+PlacedObjects: Corruption><300.856><192.9196><152~192, Corruption><680.0925><204.6266><-229~-54, Corruption><481.1927><316.8034><180~-59, CorruptionTube><202.9132><214.0698><384~243, CorruptionTube><457.5212><443.1989><317~-296, StuckDaddy><284.3963><196.3864><124~91, 
+FadePalette: 3, 0.1521739

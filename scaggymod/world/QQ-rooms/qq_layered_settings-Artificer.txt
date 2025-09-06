@@ -1,0 +1,6 @@
+Template: NONE
+Clouds: 1
+Palette: 8
+EffectColorA: 18
+PlacedObjects: ShortcutCannon><93.88702><81.10432><101~43~7, SlipperyZone><129.461><146.3874><100~50~35^25~1~False~False, 
+FadePalette: 3, 0

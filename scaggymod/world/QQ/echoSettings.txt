@@ -1,0 +1,3 @@
+radius : 3
+echosong : ELSE - Scav
+room : QQ_echo

@@ -1,0 +1,72 @@
+ROOMS
+
+GATE_GW_QQ : QQ_A01, DISCONNECTED : GATE
+QQ_A01 : QQ_A02, GATE_GW_QQ
+QQ_A02 : QQ_A01, QQ_A03
+QQ_A03 : QQ_A08, QQ_A02, QQ_B01, QQ_S01, QQ_A04
+QQ_S01 : QQ_A03 : SHELTER
+QQ_B01 : QQ_YEEK, QQ_A05, QQ_A03, QQ_A09
+QQ_YEEK : QQ_B01, DISCONNECTED
+QQ_A04 : QQ_A03, QQ_deep1, QQ_ohgodrun
+QQ_A05 : QQ_A06, QQ_B01 : SCAVOUTPOST
+QQ_A06 : QQ_A05, QQ_C01, QQ_teeny, QQ_A07
+QQ_A07 : QQ_A06, QQ_A09 : SCAVOUTPOST
+QQ_A08 : QQ_A03, QQ_A09
+QQ_A09 : QQ_A08, QQ_B01, QQ_A07
+QQ_C01 : QQ_tower1, QQ_Scughouse3, QQ_A06, QQ_layered, qq_shocking, QQ_teeny
+QQ_teeny : QQ_C01, QQ_A06, QQ_hub
+QQ_layered : QQ_tower5, QQ_spamtoing, QQ_apple, QQ_C01
+QQ_spamtoing : QQ_layered : SCAVTRADER
+QQ_tower1 : QQ_tower2, QQ_C01
+QQ_tower2 : QQ_tower6, QQ_tower3, QQ_tower1
+QQ_tower3 : QQ_tower4, QQ_tower2
+QQ_tower4 : QQ_tower7, QQ_S02, QQ_tower3, QQ_tower5, QQ_tower8
+QQ_tower5 : QQ_tower4, QQ_tub, QQ_layered
+QQ_tub : QQ_tower5
+QQ_tower6 : QQ_temple, QQ_tower2
+QQ_temple : QQ_tower6, QQ_tower7
+QQ_apple : QQ_layered, QQ_tower8
+QQ_tower7 : QQ_temple, GATE_QQ_LC, QQ_tower4
+QQ_tower8 : QQ_tower4, QQ_apple
+QQ_S02 : QQ_tower4 : SHELTER
+GATE_QQ_LC : QQ_tower7, DISCONNECTED : GATE
+QQ_deep1 : QQ_A04, QQ_deep2, QQ_deep3
+QQ_ohgodrun : QQ_A04, QQ_tubemoment
+QQ_deep2 : QQ_deep1, QQ_deep3
+QQ_deep3 : QQ_deep1, QQ_deep2, QQ_what, QQ_deep4
+QQ_deep4 : QQ_deep3, QQ_rubiconl
+QQ_rubiconl : QQ_deep4, QQ_s03, GATE_HR_QQ
+QQ_s03 : QQ_rubiconl : SHELTER
+GATE_HR_QQ : DISCONNECTED, QQ_rubiconl : GATE
+qq_shocking : QQ_C01
+QQ_echo : QQ_JANE
+QQ_hub : QQ_warhead, QQ_teeny, QQ_oemk, QQ_haven, QQ_UtterChaos, DISCONNECTED, QQ_traaaaaain, QQ_JANE
+QQ_tubemoment : QQ_ohgodrun, QQ_UtterChaos
+QQ_what : QQ_deep3, QQ_oemk
+QQ_Minecraft : QQ_plantzombie, qq_megumin, QQ_celeste
+QQ_UtterChaos : QQ_tubemoment, QQ_hub, QQ_familiar
+QQ_JANE : QQ_hub, QQ_echo
+QQ_familiar : QQ_UtterChaos, QQ_celeste
+QQ_parkourciv : QQ_celeste, QQ_horoscopicus
+QQ_celeste : QQ_omor, QQ_Minecraft, QQ_familiar, QQ_parkourciv
+QQ_haven : QQ_hub
+QQ_oemk : QQ_what, QQ_hub
+QQ_traaaaaain : QQ_hub, QQ_scrungle, QQ_omor
+QQ_warhead : QQ_hub
+QQ_Scughouse1 : QQ_Scughouse2
+QQ_Scughouse2 : QQ_Scughouse1, QQ_ScugS, QQ_Scughouse3
+QQ_Scughouse3 : QQ_Scughouse2, QQ_C01
+QQ_ScugS : QQ_Scughouse2 : SHELTER
+QQ_scrungle : QQ_traaaaaain : SCAVTRADER
+QQ_omor : QQ_traaaaaain, QQ_celeste
+QQ_plantzombie : QQ_Minecraft
+QQ_horoscopicus : qq_megumin, QQ_parkourciv
+qq_megumin : QQ_Minecraft, QQ_horoscopicus
+END ROOMS
+CREATURES
+
+OFFSCREEN : 0-Scavenger-50, 0-ScavengerElite-15, 0-Scrounger-20
+QQ_YEEK : 1-Yeek-10, 2-Yeek-8
+QQ_temple : 2-Scavenger-{Seed:7363}
+QQ_scrungle : 1-Scavenger-{Seed:3943}
+END CREATURES

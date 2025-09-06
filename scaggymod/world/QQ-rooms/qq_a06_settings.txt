@@ -1,0 +1,7 @@
+Template: NONE
+Clouds: 0.8804348
+Palette: 13
+EffectColorA: 11
+EffectColorB: 0
+PlacedObjects: LanternOnStick><495.2078><301.0621><-75~-277, LanternOnStick><469.3747><505.0014><68~-326, LanternOnStick><428.2462><494.7583><-52~-299, 
+FadePalette: 3, 0.25

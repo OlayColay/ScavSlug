@@ -1,0 +1,5 @@
+Template: NONE
+DangerType: Flood
+Palette: 8
+PlacedObjects: LanternOnStick><453.8758><478.1555><543~-2, LanternOnStick><581.1683><503.8581><-657~-2, SnowSource><362.3962><312.829><Radial~46~10~50~86.60254~1~0, LightBeam><393.9307><314.8786><205~50~209~118~253~154~222~-123~1~0~0~1~None~0~0, 
+FadePalette: 13, 0.173913

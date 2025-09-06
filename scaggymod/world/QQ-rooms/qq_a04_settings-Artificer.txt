@@ -1,0 +1,6 @@
+Template: NONE
+Clouds: 1
+Palette: 8
+EffectColorB: 11
+PlacedObjects: DangleFruit><291.4112><89.61841><630.3521~521.954~2~3, DangleFruit><273.4232><109.6001><510.1157~417.6347~2~3, DangleFruit><267.5561><92.62767><681.577~475.8076~2~3, BlinkingFlower><222.1156><466.0104><, BlinkingFlower><609.5313><270.6392><, BlinkingFlower><543.561><337.5231><, BlinkingFlower><454.3998><70.55338><, BlinkingFlower><384.247><223.0073><, BlinkingFlower><574.7035><103.8553><, BlinkingFlower><643.0013><196.3605><, BlinkingFlower><673.1034><148.7292><, BlinkingFlower><209.1266><170.0227><, BlinkingFlower><254.1336><350.8297><, BlinkingFlower><182.083><371.2668><, BlinkingFlower><407.771><307.3493><, BlinkingFlower><704.9555><323.627><, BlinkingFlower><383.5823><411.4051><, BlinkingFlower><589.6774><395.8336><, BlinkingFlower><242.5861><555.1302><, BlinkingFlower><453.2213><529.1495><, BlinkingFlower><529.8045><222.5803><, BlinkingFlower><496.1672><447.8898><, BlinkingFlower><679.9268><553.4097><, ScavengerTreasury><497.2109><153.7067><76.83752~150.4889, ScavengerTreasury><500.2975><161.3122><152.9636~260.7111, ScavengerTreasury><492.9717><158.2892><293.8323~309.7778, 
+FadePalette: 0, 0

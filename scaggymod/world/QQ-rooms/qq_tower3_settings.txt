@@ -1,0 +1,9 @@
+Template: NONE
+DangerType: None
+Grime: 0.1847826
+Palette: 13
+Effects: AboveCloudsView-1-20-20, DayNight-1-257-70, 
+PlacedObjects: ZapCoil><162.6003><526.4597><634~48, DayNightSettings><198.6908><273.8099><5~8.660254~3~31, LightFixture><469.1217><552.4087><ZapCoilLight~17.32051~-10~14, 
+FadePalette: 3, 0.25
+BackgroundOffset: 0,761
+BackgroundType: atc_default_msc

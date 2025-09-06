@@ -1,0 +1,6 @@
+Template: NONE
+Grime: 0
+Palette: 13
+EffectColorB: 11
+PlacedObjects: CustomDecal><58.94739><51.03217><-58~609~928~604~876~0~815~213~0~1~0~gug_Bonk~1~0~1~0~1~0~1~0, Corruption><899.6528><642.3252><-175~-92, 
+FadePalette: 3, 0.2173913

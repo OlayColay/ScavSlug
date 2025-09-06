@@ -1,0 +1,9 @@
+Template: NONE
+DangerType: None
+Palette: 13
+Effects: AboveCloudsView-1-20-20, DayNight-1-280-84, 
+PlacedObjects: ScavengerTreasury><557.5782><384.434><-5~222, DangleFruit><339.4084><500.1778><0~0~2~3, DayNightSettings><-169.3013><269.523><5~8.660254~3~31, 
+AmbientSounds: OMNI><AM_ENV-LightWind.ogg><728.8419><519.8224><0.3043478><1, 
+FadePalette: 3, 0.2282609
+BackgroundOffset: 0,761
+BackgroundType: atc_default_msc

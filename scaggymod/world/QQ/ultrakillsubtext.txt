@@ -1,0 +1,7 @@
+base : Scaggytown
+Scaggytown : 1 : BEST REGION EVER
+Yeek Gardens : 2 : SHORT RESPITE
+Temple Of Jerry : 3 : JUDGEMENT
+Deeptown : 4 : HELL IS CALLING
+Referencentral : 5 : REMEMBER ME?
+The Airship : 6 : CASTLE IN THE SKY

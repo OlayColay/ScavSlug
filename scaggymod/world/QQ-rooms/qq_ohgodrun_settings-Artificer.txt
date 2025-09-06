@@ -1,0 +1,7 @@
+Template: NONE
+Grime: 0
+Palette: 13
+EffectColorB: 11
+Effects: VoidSpawn-1-20-20, 
+PlacedObjects: CustomDecal><43.94739><48.03217><-58~609~928~604~876~0~815~213~0.05434782~1~0~bigwhiteeyes~1~0.06521739~1~0.06521739~1~0.06521739~1~0.06521739, Corruption><899.6528><642.3252><-612~-421, 
+FadePalette: 3, 0.2173913

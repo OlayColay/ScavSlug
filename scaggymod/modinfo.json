@@ -1,0 +1,9 @@
+{
+	"id": "scaggytowny",
+	"name": "Scaggy Town",
+	"authors": "Froglover113",
+	"description": "The best region ever made, if you disagree, you are incorrect. (thanks solar for QQ tower8, and Storm for giving jerry his (work in progress) true power)",
+	"requirements": ["pom", "crs", "regionkit", "slime-cubed.slugbase", "moreslugcats"],
+	"requirements_names": ["Custom Regions Support", "POM", "RegionKit", "Slugbase", "More Slugcats Expansion"],
+	"checksum_override_version": false
+}

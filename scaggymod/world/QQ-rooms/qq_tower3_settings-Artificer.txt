@@ -1,0 +1,9 @@
+Template: NONE
+DangerType: None
+Grime: 0.1847826
+Palette: 8
+Effects: AboveCloudsView-1-20-20, ZeroG-1-99-172, 
+PlacedObjects: ZapCoil><312.6003><343.4597><115~43, ZapCoil><384.6649><405.8868><116~43, ZapCoil><459.55><350.7528><114~35, ZapCoil><668.0924><351.1268><121~40, 
+FadePalette: 0, 0
+BackgroundOffset: 0,761
+BackgroundType: atc_default_msc

@@ -1,0 +1,4 @@
+Template: NONE
+Palette: 31
+PlacedObjects: DataPearl><503.2871><495.9465><0~0~0~0~Misc~0, DataPearl><495.8054><329.0578><0~0~0~0~Misc~0, DataPearl><440.8257><361.4351><0~0~0~0~Misc~0, DataPearl><457.9323><376.1677><0~0~0~0~Misc~0, DataPearl><471.919><376.357><0~0~0~0~Misc~0, DataPearl><448.8148><377.4392><0~0~0~0~Misc~0, DataPearl><491.7939><376.0549><0~0~0~0~Misc~0, DataPearl><500.6855><383.0607><0~0~0~0~Misc~0, DataPearl><516.7202><370.0472><0~0~0~0~Misc~0, 
+FadePalette: 75, 0.5108696

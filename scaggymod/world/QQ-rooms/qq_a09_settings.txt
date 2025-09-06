@@ -1,0 +1,5 @@
+Template: NONE
+Clouds: 0.8586956
+Palette: 13
+PlacedObjects: ScavengerTreasury><109.0893><132.321><53~155, 
+FadePalette: 3, 0.1630435

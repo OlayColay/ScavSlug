@@ -1,0 +1,5 @@
+Template: NONE
+Palette: 13
+EffectColorB: 11
+AmbientSounds: OMNI><msc-metalvariety.ogg><688.2175><434.3026><1><1, 
+FadePalette: 3, 0.2173913

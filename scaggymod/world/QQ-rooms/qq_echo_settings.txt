@@ -1,0 +1,4 @@
+Template: NONE
+Palette: 13
+PlacedObjects: EEGhostSpot><283.6213><478.5909><, 
+FadePalette: 3, 0.3804348, 0.3586957, 0.3695652

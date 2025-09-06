@@ -1,0 +1,4 @@
+Template: NONE
+Palette: 8
+PlacedObjects: TempleGuard><1171.824><478.5954><, TempleGuard><2237.927><311.1579><, TempleGuard><1641.267><383.1993><, TempleGuard><2378.198><101.4709><, TempleGuard><2569.393><426.1399><, CustomDecal><580.4043><331.1272><-13~233~465~242~447~-55~1158.923~-6.561707~0~1~0~leave!!!!~1~0~1~0~1~0~1~0, TempleGuard><2075.588><119.8201><, TempleGuard><1344.639><184.1057><, 
+FadePalette: 0, 0, 0, 0

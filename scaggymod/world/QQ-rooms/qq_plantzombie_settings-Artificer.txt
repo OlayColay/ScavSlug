@@ -1,0 +1,5 @@
+Template: NONE
+Palette: 13
+PlacedObjects: FreeformDecalOrSprite><433.0766><78.65041><126~300~0;0^-89;1^-200;237^-81;247~zombe~1~Basic~Midground~255~False~FFFFFF, FreeformDecalOrSprite><170.3036><64.30733><570~281~0;0^127;2^126;116^10;120~zombe~1~Basic~Midground~255~False~FFFFFF, FreeformDecalOrSprite><1175.552><-45.72435><-318~-64~0;0^-1371;-2^-1367;769^248;763~zombe~1~Basic~Midground~255~False~FFFFFF, 
+AmbientSounds: OMNI><basic mech.ogg><718.9446><524.6922><0.5><1.9, 
+FadePalette: 3, 0.3586957

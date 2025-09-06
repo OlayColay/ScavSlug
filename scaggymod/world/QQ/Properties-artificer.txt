@@ -1,0 +1,10 @@
+corruptionEffectColor: 0.7,0.7,0.4
+corruptionEyeColor: 0.5,0.3,0
+Subregion: You shouldnt be here...
+Subregion: Yeek UNSafe Space
+Subregion: Temple Of Jerry (you are banned)
+Subregion: GETOUTGETOUTGETOUTGE-
+Subregion: You wouldn't get it.
+Subregion: Burning Sky Ship
+Room_Attr: QQ_B01: Yeek-Forbidden,
+Room_Attr: QQ_YEEK: Yeek-Stay,

@@ -1,0 +1,13 @@
+[FIND]Corruption><300.856><192.9196><152~192, 
+[REPLACE]
+[FIND]Corruption><680.0925><204.6266><-229~-54, 
+[REPLACE]
+[FIND]Corruption><481.1927><316.8034><180~-59, 
+[REPLACE]
+[FIND]CorruptionTube><202.9132><214.0698><384~243, 
+[REPLACE]
+[FIND]StuckDaddy><284.3963><196.3864><124~91, 
+[REPLACE]
+[MERGE]
+PlacedObjects: Corruption><195.8551><623.9182><152~192, Corruption><744.0925><669.6266><-229~-54, Corruption><483.1927><673.8034><180~-59, CorruptionTube><265.9132><452.0698><384~243, StuckDaddy><404.3963><536.3864><124~91, 
+[ENDMERGE]

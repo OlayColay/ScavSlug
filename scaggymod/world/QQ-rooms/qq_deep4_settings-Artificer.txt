@@ -1,0 +1,9 @@
+Template: NONE
+DangerType: Flood
+Grime: 0
+Palette: 31
+EffectColorA: 15
+EffectColorB: 13
+Effects: LethalWater-1-8-136, VoidMelt-0.2282609-20-20, HeatWave-0.8043478-148-69, FireFlies-1-313-17, LightBurn-0.2065217-338-137, 
+PlacedObjects: ExitSymbolShelter><710.441><588.5591><, ExitSymbolShelter><167.3062><80.69189><, SeedCob><383.94><455.1879><0~0~7~10, SeedCob><327.9254><328.154><0~0~7~10, SeedCob><258.849><170.0762><0~0~7~10, SeedCob><273.9489><260.2296><0~0~7~10, SeedCob><342.9296><369.162><0~0~7~10, SeedCob><408.9018><508.3802><0~0~7~10, 
+FadePalette: 75, 0.4891304

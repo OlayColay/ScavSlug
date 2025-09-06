@@ -1,0 +1,7 @@
+Template: NONE
+DangerType: Flood
+Clouds: 0.8478261
+Palette: 8
+PlacedObjects: FlareBomb><559.9313><443.1656><0~0~2~3, FlareBomb><791.5715><599.3401><0~0~2~3, FlareBomb><627.8848><469.3978><0~0~2~3, FlareBomb><752.5859><480.1356><0~0~2~3, FlareBomb><617.5508><509.2685><0~0~2~3, FlareBomb><552.739><543.0503><0~0~2~3, Corruption><63.03482><-49.67502><267~152, Corruption><288.8666><510.1625><0~100, Corruption><1026.609><35.11495><-61~261, 
+AmbientSounds: OMNI><am_ind-arc.ogg><721.4416><276.1926><1><1.9, 
+FadePalette: 0, 0

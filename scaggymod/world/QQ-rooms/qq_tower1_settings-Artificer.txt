@@ -1,0 +1,11 @@
+Template: NONE
+RainIntensity: 0.6195652
+RumbleIntensity: 0.6304348
+Palette: 8
+EffectColorA: 6
+Effects: AboveCloudsView-1-20-20, Fog-1-29-73, SkyDandelions-1-350-78, 
+PlacedObjects: Vine><0.8583984><760.3912><709~666, Vine><771.3761><1155.407><-56~242, Vine><0.668335><450.358><599~-156, Vine><9.58963><229.0712><277~-196, Vine><0.6942749><344.2975><801~235, Vine><5.615356><557.5866><714~-207, CGCosmeticLeaves><649.1242><209.4118><100~50~-163^370~-13.72699^-6.047295~EffectColor1~0~0.5260859~0.767391~0, CGCosmeticLeaves><150.104><59.38666><100~50~13^400~-14.9921^0.4872433~EffectColor1~2~0.6239133~0.8~0, CGCosmeticLeaves><260.4344><171.3275><100~50~-2^299~-14.99966^-0.1003322~EffectColor1~2~0.7326083~0.8~0, 
+AmbientSounds: OMNI><AM_ENV-LightWind.ogg><728.713><523.5535><0.2282609><1, 
+FadePalette: 3, 0, 0
+BackgroundOffset: 0,730
+BackgroundType: atc_default_msc

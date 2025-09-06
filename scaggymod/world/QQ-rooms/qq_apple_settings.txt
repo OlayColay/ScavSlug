@@ -1,0 +1,4 @@
+Template: NONE
+CeilingDrips: 0
+PlacedObjects: FreeformDecalOrSprite><49.3949><107.8116><100~50~0;0^863;2^864;545^-6;545~nm kn~1~Basic~Foreground~255~False~FFFFFF, 
+Triggers: Spot<tA>event<tB>MusicEvent<eA>songName<eB>bad_apple<eA>vol<eB>0.3<eA>prio<eB>1<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>-1<eA>rest<eB>5<eA>fadeIn<eB>58.69565<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>0<tA>multiUse<tB>1<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>698.7545<tB>211.55<tA>fireChance<tB>1<tA>entrance<tB>0<tA>karma<tB>0<tA>slugcats<tB><tA>pos<tB>391.7545<tB>383.55<tA>handlePos<tB>-484.3553<tB>-325.3553, 

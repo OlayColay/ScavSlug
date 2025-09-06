@@ -1,0 +1,18 @@
+{
+  "Title": "Scaggy Town",
+  "Description": "The best region ever made, if you disagree, you are incorrect.",
+  "ID": "scaggytowny",
+  "Version": "1.4",
+  "TargetGameVersion": "v1.9.06",
+  "Requirements": "pom,crs,regionkit,shrimb.scroungers",
+  "RequirementNames": "Custom Regions Support,POM,RegionKit",
+  "Authors": "Froglover113",
+  "Visibility": "Public",
+  "Tags": [
+    "Regions",
+    "Custom Slugcat"
+  ],
+  "WorkshopID": 3176454319,
+  "UploadFilesOnly": true,
+  "UploadThumbnail": false
+}

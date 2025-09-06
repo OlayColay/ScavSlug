@@ -1,0 +1,9 @@
+Template: NONE
+DangerType: None
+Palette: 8
+Effects: AboveCloudsView-1-20-20, 
+PlacedObjects: Rainbow><-163.5515><1473.274><2335~-1467~0~0~1,1,1,1,0.5,0.15, WormgrassRect><649.4438><1092.951><6^2, WormgrassRect><804.2753><1076.302><6^2, WormgrassRect><1199.673><1097.077><6^2, WormgrassRect><997.9114><1058.132><6^2, WormgrassRect><1351.8><1073.234><6^2, WormgrassRect><1537.696><1092.459><6^2, 
+AmbientSounds: OMNI><AM_ENV-LightWind.ogg><781.8993><518.6728><1><0.1, 
+FadePalette: 3, 0, 0, 0, 0
+BackgroundOffset: 0,869.565
+BackgroundType: atc_default_msc

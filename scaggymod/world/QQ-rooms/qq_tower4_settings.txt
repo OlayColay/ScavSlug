@@ -1,0 +1,10 @@
+Template: NONE
+DangerType: None
+Grime: 0
+Palette: 13
+Effects: AboveCloudsView-1-20-20, DayNight-1-270-73, 
+PlacedObjects: BlueToken><2627.695><416.206><4~-47~141~-17~1~Scavenger~~0~0~0~0~0~0~0~0~0~0~0~0~0~0~0~0, DayNightSettings><2555.406><489.6246><5~8.660254~3~31, 
+AmbientSounds: OMNI><AM_ENV-LightWind.ogg><742.8351><516.1368><0.2934783><1, 
+FadePalette: 3, 0.2282609, 0.2173913, 0.2173913
+BackgroundOffset: 0,760.8694
+BackgroundType: atc_default_msc

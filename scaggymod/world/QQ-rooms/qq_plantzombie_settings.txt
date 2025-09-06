@@ -1,0 +1,4 @@
+Template: NONE
+Palette: 13
+PlacedObjects: FreeformDecalOrSprite><331.0766><67.65041><173~50~0;0^127;2^137;204^-11;208~peakshooter~1~Basic~Midground~255~False~FFFFFF, FreeformDecalOrSprite><170.3036><64.30733><100~50~0;0^127;2^137;204^-11;208~susfowler~1~Basic~Midground~255~False~FFFFFF, FreeformDecalOrSprite><794.5517><70.27565><100~50~0;0^127;2^137;204^-11;208~zombe~1~Basic~Midground~255~False~FFFFFF, 
+FadePalette: 3, 0.3586957

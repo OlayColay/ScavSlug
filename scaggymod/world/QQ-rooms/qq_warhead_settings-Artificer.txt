@@ -1,0 +1,9 @@
+Template: NONE
+DangerType: None
+Palette: 13
+Effects: AboveCloudsView-1-20-20, 
+PlacedObjects: CustomDecal><529.4852><472.8005><0~40~40~40~40~0~312~-56~0~1~0~bombthem~1~0.4565217~1~0.4565217~1~0.4565217~1~0.4565217, PlayerPushback><1051.198><-41.47159><-1260~773, 
+AmbientSounds: OMNI><am_env-windgrass.ogg><719.5856><551.6139><0.2391304><1, SPOT><so_sfx-data5.ogg><695.9468><191.4643><0.5><1><207.9601><286.4643><-69.35535><-82.35535><0><0.1, SPOT><so_sfx-data4.ogg><719.1438><206.639><0.5><1><208.1439><288.639><-35.35534><-35.35534><0><0.1, SPOT><so_sfx-datastream.ogg><745.819><175.835><0.5><1><110.819><522.835><-38.35535><-63.35535><0><0.1, SPOT><so_sfx-data1.ogg><718.9008><244.9237><0.5><1><207.9009><287.9237><-35.35534><-35.35534><0><0.1, 
+FadePalette: 3, 0.3586957
+BackgroundOffset: 0,652.1738
+BackgroundType: atc_default_msc

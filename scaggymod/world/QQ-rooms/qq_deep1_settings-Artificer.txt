@@ -1,0 +1,9 @@
+Template: NONE
+DangerType: Flood
+Grime: 0.05434782
+Palette: 31
+EffectColorA: 15
+EffectColorB: 13
+Effects: HeatWave-0.7934783-20-20, LethalWater-1-39-100, Fog-1-316-97, 
+PlacedObjects: CellDistortion><-56.6655><144.8877><846~251~50~86.60254~1~1~1~1, CellDistortion><1753.899><97.94089><944~537~50~86.60254~1~1~1~1, CellDistortion><2932.064><598.1897><0~100~50~86.60254~1~1~1~1, 
+FadePalette: 75, 0.4891304, 0.5, 0.4782609

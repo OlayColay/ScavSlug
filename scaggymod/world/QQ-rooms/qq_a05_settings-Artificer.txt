@@ -1,0 +1,7 @@
+Template: NONE
+Clouds: 1
+Palette: 8
+EffectColorB: 20
+Effects: HeavyRain-0.3043478-20-20, BulletRain-1-147-105, LightRain-1-356-32, 
+PlacedObjects: ScavengerOutpost><515.1663><345.7668><-108~315~0~0~0.8023869~63~55, ScavengerOutpost><122.8681><63.66144><65~561~0~0~0.7062482~5~4, OEsphere><165.7402><420.4519><3~33~50~86.60254~0~1, OEsphere><702.5202><486.3331><4~54~50~86.60254~0~1, OEsphere><475.9486><575.7222><0~100~50~86.60254~0~1, 
+FadePalette: 0, 0

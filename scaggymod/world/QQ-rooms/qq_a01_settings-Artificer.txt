@@ -1,0 +1,7 @@
+Template: NONE
+Clouds: 0.8478261
+Palette: 10
+EffectColorA: 0
+EffectColorB: 20
+PlacedObjects: ScavengerTreasury><340.8163><150.1887><2~165, ColouredLightSource><505.8113><372.3947><100~50~0000FF~906^285~1~False~0.5~0~0.5~Always~0~100, 
+FadePalette: 0, 0

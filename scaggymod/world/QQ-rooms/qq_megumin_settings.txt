@@ -1,0 +1,5 @@
+Template: NONE
+DangerType: Flood
+Palette: 13
+PlacedObjects: CustomDecal><286.9524><203.9443><-2~279~321~282~359~-18~506~67~0.05434786~1~0~meguficer~1~0~1~0~1~0~1~0, 
+FadePalette: 3, 0.3369565

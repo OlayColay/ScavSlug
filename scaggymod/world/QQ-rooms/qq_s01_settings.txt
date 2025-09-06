@@ -1,0 +1,2 @@
+Template: NONE
+PlacedObjects: ShelterBhvrSpawnPosition><732.6566><342.3744><, 

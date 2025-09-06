@@ -1,0 +1,7 @@
+Template: NONE
+Clouds: 0.8043478
+Palette: 8
+EffectColorA: 4
+Effects: Fog-1-20-20, SkyDandelions-1-27-139, Lightning-1-8-97, BkgOnlyLightning-1-21-60, ExtraLoudThunder-1-300-152, GreenSparks-1-282-81, VoidMelt-1-310-25, ZeroGSpecks-1-664-359, CorruptionSpores-1-650-468, VoidSpawn-1-414-598, HeatWave-1-405-304, Coldness-1-907-480, FairyParticles-1-783-595, Dustpuffs-1-412-496, Advertisements-1-544-648, 
+PlacedObjects: HangingPearls><832.1861><135.5605><, HangingPearls><808.0766><137.8496><, HangingPearls><790.3931><137.8897><, HangingPearls><772.0597><135.8113><, ScavengerTreasury><205.3381><248.4296><0~100, ScavengerTreasury><688.9112><216.1315><0~100, ScavengerOutpost><506.3651><177.4136><-38~283~0~0~0.1460481~67~26, 
+FadePalette: 0, 0

@@ -1,0 +1,4 @@
+Template: NONE
+Palette: 13
+PlacedObjects: TradeOutpost><532.2997><384.3063><-8~182, LanternOnStick><711.4642><582.0532><8~-259, LanternOnStick><374.6152><523.0864><-30~-260, 
+FadePalette: 3, 0.1847826

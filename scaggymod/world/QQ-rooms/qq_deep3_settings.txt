@@ -1,0 +1,9 @@
+Template: NONE
+DangerType: Flood
+Grime: 0
+Palette: 31
+EffectColorA: 15
+EffectColorB: 13
+Effects: LethalWater-1-20-20, LavaSurface-0.9891304-20-72, HeatWave-0.8152174-276-125, VoidMelt-0.2173913-291-73, WaterViscosity-0.8043478-283-9, 
+PlacedObjects: ClimbablePole><743.0529><206.4661><395~127~17.32051~-10~Black, CoralCircuit><1524.31><611.0635><-1~122, CoralNeuron><1557.789><438.6962><37~386, CoralNeuron><1710.984><606.9494><-364~208, CoralStem><635.348><590.3802><199~83, 
+FadePalette: 75, 0.4891304, 0.4565217, 0.4456522, 0.423913

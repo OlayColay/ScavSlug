@@ -1,0 +1,5 @@
+Template: NONE
+Clouds: 0.8586956
+Palette: 8
+PlacedObjects: ScavengerTreasury><109.0893><132.321><53~155, EnergySwirl><836.2864><216.4467><EffectColor1~0~100~50~86.60254~0, EnergySwirl><244.4478><250.9701><EffectColor1~0~100~50~86.60254~0, EnergySwirl><76.3147><353.1892><EffectColor1~0~100~50~86.60254~0, EnergySwirl><399.0505><212.9857><EffectColor1~0~100~50~86.60254~0, LocalBlizzard><401.5506><212.1445><1363~607~50~86.60254~1~0.07608695~0, 
+FadePalette: 0, 0

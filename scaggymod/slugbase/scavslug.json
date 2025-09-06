@@ -1,0 +1,36 @@
+{
+	"id": "scavslug",
+	"name": "The Scavenger",
+	"description": "A slugcat that has lived with the scavengers since they were a pup.",
+	"features": {
+		"diet": {
+  			"base": "White",
+  			"corpses": 0,
+  			"meat": 1,
+  			"plants": 1
+		},
+		"color": "FF6C20",
+		"custom_colors": [
+			{ "name": "Body", "story": "FF6C20" },
+			{ "name": "Eyes", "story": "FFFFFF" }
+		],
+		"alignments": {
+			"Lizards": { "like": -0.3, "strength": 0.2 },
+			"Scavengers": { "like": 1, "locked": true }
+		},
+		"karma": 0,
+		"karma_cap": 4,
+		"food_min": 3,
+		"food_max": 6,
+		"back_spear": true,
+		"the_mark": true,
+		"the_glow": false,
+		"timeline_after": "Spear",
+		"world_state": [ "Spear" ],
+		"has_dreams": false,
+		"use_default_dreams": false,
+		"expedition_enabled": true,
+		"expedition_description": "Scavgegber",
+		"start_room": "QQ_Scughouse1"
+	}
+}

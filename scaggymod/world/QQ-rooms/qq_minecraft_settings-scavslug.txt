@@ -1,0 +1,5 @@
+Template: NONE
+Palette: 13
+EffectColorB: 11
+AmbientSounds: OMNI><am_nat-forestrain.ogg><734.2><433.7469><0.3369565><1, 
+FadePalette: 3, 0.2173913

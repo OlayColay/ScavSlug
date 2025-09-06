@@ -1,0 +1,9 @@
+Template: NONE
+WaveSpeed: 0.5029583
+WaveLength: 0.9985209
+WaveAmplitude: 5.494777E-05
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Palette: 13
+PlacedObjects: EEGhostSpot><620.6213><751.5909><, 
+FadePalette: 3, 0.3804348, 0.3586957, 0.3695652

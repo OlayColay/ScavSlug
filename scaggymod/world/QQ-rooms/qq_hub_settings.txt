@@ -1,0 +1,5 @@
+Template: NONE
+DangerType: Flood
+Palette: 13
+EffectColorB: 11
+FadePalette: 3, 0.3043478

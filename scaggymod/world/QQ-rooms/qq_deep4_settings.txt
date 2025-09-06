@@ -1,0 +1,8 @@
+Template: NONE
+DangerType: Flood
+Grime: 0
+Palette: 31
+EffectColorA: 15
+EffectColorB: 13
+Effects: LethalWater-1-8-136, VoidMelt-0.2282609-20-20, HeatWave-0.8043478-148-69, FireFlies-1-313-17, LightBurn-0.2065217-338-137, 
+FadePalette: 75, 0.4891304

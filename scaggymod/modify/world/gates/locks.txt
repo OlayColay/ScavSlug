@@ -1,0 +1,5 @@
+[MERGE]
+GATE_GW_QQ : 1 : 1
+GATE_QQ_LC : R : 4
+GATE_HR_QQ : 10 : 10
+[ENDMERGE]

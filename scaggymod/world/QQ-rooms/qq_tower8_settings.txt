@@ -1,0 +1,9 @@
+Template: NONE
+RainIntensity: 0.4673913
+RumbleIntensity: 0.4673913
+Palette: 13
+EffectColorB: 16
+Effects: AboveCloudsView-1-20-20, 
+FadePalette: 3, 0.1630435, 0.1630435, 0.173913, 0.1630435, 0.1630435, 0.1630435, 0.1630435, 0.1630435, 0.1630435, 0.1630435, 0.1630435, 0.1630435, 0.1630435, 0.1630435, 0.1630435, 0.1630435, 0.1630435, 0.1630435, 0.1630435, 0.1630435, 0.1630435
+BackgroundOffset: 0,500
+BackgroundType: atc_default_msc

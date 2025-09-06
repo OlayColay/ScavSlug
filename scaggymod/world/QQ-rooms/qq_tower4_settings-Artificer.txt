@@ -1,0 +1,10 @@
+Template: NONE
+DangerType: None
+Grime: 0
+Palette: 8
+Effects: AboveCloudsView-1-20-20, 
+PlacedObjects: BlueToken><2627.695><416.206><4~-47~141~-17~1~Scavenger~~0~0~0~0~0~0~0~0~0~0~0~0~0~0~0~0, SteamHazard><2244.303><-41.2664><100~50~1~1~1~11^649, 
+AmbientSounds: OMNI><AM_ENV-LightWind.ogg><742.8351><516.1368><1><1.9, 
+FadePalette: 0, 0, 0, 0
+BackgroundOffset: 0,760.8694
+BackgroundType: atc_default_msc

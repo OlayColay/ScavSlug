@@ -1,0 +1,8 @@
+Template: NONE
+DangerType: None
+Palette: 8
+Effects: AboveCloudsView-1-20-20, 
+PlacedObjects: UpsideDownWaterFall><827.6864><37.68866><1345~599~1~5~1~0~0~5~Water~True~1, UpsideDownWaterFall><171.8993><822.3667><452~658~1~5~1~0~0~5~Water~True~1, UpsideDownWaterFall><863.8057><821.3077><1288~658~1~5~1~0~0~5~Water~True~1, UpsideDownWaterFall><940.5548><730.4555><81~208~1~5~1~80~182~5~Water~True~1, 
+FadePalette: 0, 0, 0, 0, 0
+BackgroundOffset: 0,871
+BackgroundType: atc_default_msc

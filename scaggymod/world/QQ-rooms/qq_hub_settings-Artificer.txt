@@ -1,0 +1,11 @@
+Template: NONE
+DangerType: Flood
+WaveSpeed: 0.5253224
+WaveLength: 0.9873388
+WaveAmplitude: 1.847043E-08
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Palette: 13
+EffectColorB: 11
+PlacedObjects: CameraNoise><-77.0791><156.8539><100~50~1~20~12~5~5~2~1~0~24.99999~FFFFFF~000000~1~1~0, 
+FadePalette: 3, 0.3043478

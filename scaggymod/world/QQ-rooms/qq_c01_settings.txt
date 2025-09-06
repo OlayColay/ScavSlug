@@ -1,0 +1,4 @@
+Template: NONE
+Palette: 13
+PlacedObjects: CustomDecal><523.9329><284.3311><2~268~667~272~664~-4~6~-125~0~1~0~huh~1~0~1~0~1~0~1~0, ExitSymbolHidden><1213.396><611.8865><, 
+FadePalette: 3, 0.2173913, 0.2065217, 0.1956522

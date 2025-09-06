@@ -1,0 +1,9 @@
+Template: NONE
+RainIntensity: 0.4673913
+RumbleIntensity: 0.4673913
+Palette: 7
+Effects: AboveCloudsView-1-20-20, RoomWrap-1-23-98, 
+PlacedObjects: PlayerPushback><126.1679><3651.141><53~-410, 
+FadePalette: 3, 0, 0, 0, 0, 0
+BackgroundOffset: 0,391.3051
+BackgroundType: atc_default_msc
